@@ -39,10 +39,11 @@ page {
 .info .restart {
   /*flex: 1;*//*background-color: transparent;
 	border-color: transparent;*/
+  background-color: #fff;
   border-width: 0;
 }
 
-.info .restart Image {
+.info .restart image {
   width: 24rpx;
   height: 24rpx;
 }

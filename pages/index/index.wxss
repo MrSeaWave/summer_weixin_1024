@@ -83,7 +83,7 @@ page {
 /*棋盘*/
 
 .chessboard {
-  background-color: #bbada0;
+  background-color: #d9d9d9;
   margin: 50rpx;
   height: 650rpx;
   width: 650rpx;
@@ -124,14 +124,14 @@ page {
   color: #fff;
   display: inline-block;
   border-width: 1px;
-  border-color: #bbada0;
+  border-color: #d9d9d9;
   background-color: #cdc1b4;
 }
 
 .direction .directionBtn-hover {
   color: #000;
   border-color: #cdc1b4;
-  background-color: #bbada0;
+  background-color: #d9d9d9;
 }
 
 /* 提示 */
